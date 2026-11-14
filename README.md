@@ -42,48 +42,52 @@
 
 <h2>💻 Tech Stack</h2>
 
-<p><strong>Languages</strong></p>
+<p>Agentic AI · LLM applications · Workflow automation</p>
+
+<p><strong>Programming languages</strong></p>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-292E33?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-<p><strong>Frontend & mobile</strong></p>
+<p><strong>Frameworks, libraries & runtime</strong></p>
 <p>
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0F6B7A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-<p><strong>Backend & data</strong></p>
-<p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+<p><strong>Databases</strong></p>
+<p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-237A3B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-B32624?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<p><strong>AI & cloud</strong></p>
-<p>Agentic AI · LLM applications · Workflow automation</p>
+<p><strong>AI & computer vision</strong></p>
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-D96500?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-326CE5?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p><strong>Cloud & infrastructure</strong></p>
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-292E33?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<p><strong>Security</strong></p>
+<p><strong>Security tools</strong></p>
 <p>
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-D54F17?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img alt="OWASP" src="https://img.shields.io/badge/OWASP-29333D?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-292E33?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <h2>📊 GitHub Stats</h2>
