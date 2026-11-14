@@ -59,6 +59,8 @@
 <p><strong>Frameworks, libraries & runtime</strong></p>
 <p>
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00A75A?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0F6B7A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -88,6 +90,7 @@
 <p><strong>Cloud & infrastructure</strong></p>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-292E33?style=for-the-badge&logo=linux&logoColor=white" />
