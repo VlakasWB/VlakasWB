@@ -9,14 +9,24 @@
 <p>Building practical, high-performance software for startups and enterprises.</p>
 
 <p>
-  <a href="https://www.credly.com/badges/e71979aa-b7ef-49e4-ace1-a852dffd5774"><img src="assets/cert-0.png" alt="Meta Full-Stack Engineer — verified on Credly" width="108" /></a>
+  <a href="https://www.credly.com/badges/e71979aa-b7ef-49e4-ace1-a852dffd5774"><img src="assets/cert-0.png" alt="Meta Full-Stack Engineer Certificate" title="Meta Full-Stack Engineer Certificate" width="108" /></a>
   &nbsp;
-  <a href="https://www.credly.com/badges/30b9f9f7-1a83-40e8-918f-aaa0d7178961"><img src="assets/cert-1.png" alt="Meta Database Engineer — verified on Credly" width="108" /></a>
+  <a href="https://www.credly.com/badges/30b9f9f7-1a83-40e8-918f-aaa0d7178961"><img src="assets/cert-1.png" alt="Meta Database Engineer Certificate" title="Meta Database Engineer Certificate" width="108" /></a>
   &nbsp;
-  <a href="https://www.credly.com/badges/4633444c-6798-4905-8890-b98ebffe514d"><img src="assets/cert-2.png" alt="API Penetration Testing — verified on Credly" width="108" /></a>
+  <a href="https://www.credly.com/badges/580a994d-ed8f-440a-9a70-cb752c8a667a"><img src="assets/cert-3.png" alt="Meta Front-End Developer Certificate" title="Meta Front-End Developer Certificate" width="108" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/e96f9dbe-7d8c-4725-80d4-b135749911f7"><img src="assets/cert-4.png" alt="Meta Back-End Developer Certificate" title="Meta Back-End Developer Certificate" width="108" /></a>
 </p>
 
-<p><sub>Meta Full-Stack Engineer · Meta Database Engineer · API Penetration Testing</sub></p>
+<p>
+  <a href="https://www.credly.com/badges/4633444c-6798-4905-8890-b98ebffe514d"><img src="assets/cert-2.png" alt="API Penetration Testing (12 hours)" title="API Penetration Testing (12 hours)" width="108" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/ec6981ed-584a-4698-b7bf-aef548fb74fc"><img src="assets/cert-5.png" alt="API Security Fundamentals '25 (2 hours)" title="API Security Fundamentals '25 (2 hours)" width="108" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/4fe46f2b-6a22-4f1b-a8dd-a65a030dcdbc"><img src="assets/cert-6.png" alt="IT Specialist - Databases" title="IT Specialist - Databases" width="108" /></a>
+</p>
+
+<p><sub>Verified certifications · Meta, APIsec University &amp; Certiport</sub></p>
 
 </div>
 
